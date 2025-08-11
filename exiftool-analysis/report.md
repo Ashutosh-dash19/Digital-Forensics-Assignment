@@ -78,3 +78,9 @@
 ## 🖼️ Image Size & Encoding
 - **Encoding Process**: Progressive DCT, Huffman coding
 - **Compression**: JPEG (old-style)
+
+---
+
+## 📷 Screenshots
+![ExifTool Screenshot 1](screenshots/Screenshot%201.png)
+![ExifTool Screenshot 2](screenshots/Screenshot%202.png)
