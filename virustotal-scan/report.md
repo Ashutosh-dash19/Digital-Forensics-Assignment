@@ -88,5 +88,5 @@
 - [VirusTotal Scan Result](https://www.virustotal.com/gui/file/ae2a513b61febc225d5e374ab22dba754a3d38e49b7bbd442fe3f9bab16b8fb1)
 
 ## 🖼️ Screenshots
-- ![VT Detection Screenshot](Screenshot1.png)
-- ![VT Detection Vendors List](Screenshot2.png)
+- ![VT Detection Screenshot](Screenshot 1.png)
+- ![VT Detection Vendors List](Screenshot 2.png)
