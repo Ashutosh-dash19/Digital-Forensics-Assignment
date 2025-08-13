@@ -16,6 +16,11 @@ It was then copied and executed in PowerShell on the Windows 10 target VM (runni
 - **IP Address:** <Captured from `ipconfig`>
 - **User:** <Captured from `whoami`>
 
+## Screenshots
+- ![Villain access Screenshot](screenshots/Screenshot%201.png)
+- ![Payload generation in linux](screenshots/Screenshot%202.png)
+- ![Payload testing in windows](screenshots/Screenshot%203.png)
+
 ## 🔎 Enumeration Performed
 ```powershell
 whoami
@@ -37,9 +42,6 @@ systeminfo
 #         OS Version: 10.0.19045 N/A Build 19045
 
 
-## Screenshots
-- ![Villain access Screenshot](screenshots/Screenshot%201.png)
-- ![Payload generation in linux](screenshots/Screenshot%202.png)
-- ![Payload testing in windows](screenshots/Screenshot%203.png)
+
 
 
