@@ -20,6 +20,9 @@ It was then copied and executed in PowerShell on the Windows 10 target VM (runni
 - ![Villain access Screenshot](screenshots/Screenshot%201.png)
 - ![Payload generation in linux](screenshots/Screenshot%202.png)
 - ![Payload testing in windows](screenshots/Screenshot%203.png)
+- ![Executing Commands](screenshots/Screenshot%204.png)
+- ![System info windows 1](screenshots/Screenshot%205.png)
+- ![System info windows 2](screenshots/Screenshot%206.png)
 
 ## 🔎 Enumeration Performed
 ```powershell
