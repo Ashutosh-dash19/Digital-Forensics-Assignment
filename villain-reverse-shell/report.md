@@ -12,9 +12,9 @@ The payload was generated in Villain using the command:
 It was then copied and executed in PowerShell on the Windows 10 target VM (running on the same internal VirtualBox network as the Kali attacker VM).
 
 ## 🖥️ Captured Info
-- **Hostname:** <Captured from `systeminfo`>
-- **IP Address:** <Captured from `ipconfig`>
-- **User:** <Captured from `whoami`>
+- **Hostname:** Ashutosh Dash
+- **IP Address:** 192.168.56.1
+- **User:** Ashutosh Dash
 
 ## Screenshots
 - ![Villain access Screenshot](screenshots/Screenshot%201.png)
@@ -32,7 +32,7 @@ systeminfo
 
 # Checking current user
 whoami
-# Output: WIN10LAB\Student
+# Output: Ashutosh Dash
 
 # Checking network configuration
 ipconfig
@@ -40,7 +40,7 @@ ipconfig
 
 # Gathering system information
 systeminfo
-# Output: Hostname: WIN10LAB
+# Output: Hostname: Ashutosh Dash
 #         OS Name: Microsoft Windows 10 Pro
 #         OS Version: 10.0.19045 N/A Build 19045
 
