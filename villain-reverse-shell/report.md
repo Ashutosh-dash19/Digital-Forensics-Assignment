@@ -12,7 +12,7 @@ The payload was generated in Villain using the command:
 It was then copied and executed in PowerShell on the Windows 10 target VM (running on the same internal VirtualBox network as the Kali attacker VM).
 
 ## 🖥️ Captured Info
-- **Hostname:** Ashutosh Dash
+- **Hostname:** LAPTOP-5MI630JJ
 - **IP Address:** 192.168.56.1
 - **User:** Ashutosh Dash
 
@@ -40,7 +40,7 @@ ipconfig
 
 # Gathering system information
 systeminfo
-# Output: Hostname: Ashutosh Dash
+# Output: Hostname: LAPTOP-5MI630JJ
 #         OS Name: Microsoft Windows 10 Pro
 #         OS Version: 10.0.19045 N/A Build 19045
 
